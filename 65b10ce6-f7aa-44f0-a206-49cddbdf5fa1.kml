@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+  <Document>
+    <name>All Truck Stops @ 11/16/2017 11:18:58 AM</name>
+    <Placemark>
+      <name>Plant: Acme Corrugated</name>
+      <description>2700 TURNPIKE DRIVE, HATBORO, PA, 19040</description>
+      <styleUrl>#Plant</styleUrl>
+      <Style id="Plant">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/green_MarkerP.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.0973129272461,40.1618118286133</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trailer: 1396</name>
+      <description>&lt;b&gt;Trailer: &lt;/b&gt;1396&lt;br/&gt;&lt;b&gt;Truck: &lt;/b&gt;T7&lt;br/&gt;&lt;b&gt;Trip #: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Driver: &lt;/b&gt;ED MCCUE&lt;br/&gt;&lt;b&gt;Mobile No: &lt;/b&gt;&lt;A href='mailto:12152647004@vtext.com'&gt;12152647004&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Last Checked in: &lt;/b&gt;11:13:08 AM&lt;br/&gt;&lt;b&gt;Next Stop: &lt;/b&gt;SCHWANS GLOBAL SUPPLY&lt;br/&gt;&lt;b&gt;Next Stop Est Arrival: &lt;/b&gt;11/16/2017 6:02:51 AM&lt;br/&gt;</description>
+      <styleUrl>#RedTruck</styleUrl>
+      <Style id="RedTruck">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/red_MarkerT.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.650139,40.244225</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ship To: SCHWANS GLOBAL SUPPLY</name>
+      <description>&lt;b&gt;Stop: &lt;/b&gt;3&lt;br/&gt;&lt;b&gt;Ship To: &lt;/b&gt;SCHWANS GLOBAL SUPPLY&lt;br/&gt;&lt;b&gt;Address: &lt;/b&gt;610-327-5074 EX 61227 BOB,&lt;br/&gt;255 SOUTH  STREET,&lt;br/&gt;POTTSTOWN, PA 19464&lt;br/&gt;&lt;b&gt;No of Orders: &lt;/b&gt;3&lt;br/&gt;&lt;b&gt;No of Units: &lt;/b&gt;17&lt;br/&gt;&lt;b&gt;Est Arrival Time: &lt;/b&gt;11/16/2017 6:02:51 AM&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Driver: &lt;/b&gt;ED MCCUE on truck T7 has arrived at this stop&lt;br/&gt;</description>
+      <styleUrl>#YellowPoints_3</styleUrl>
+      <Style id="YellowPoints_3">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/YellowMarkers/marker3.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.64796,40.24429</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ship To: BLOMMERS CHOCOLATE</name>
+      <description>&lt;b&gt;Stop: &lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Ship To: &lt;/b&gt;BLOMMERS CHOCOLATE&lt;br/&gt;&lt;b&gt;Address: &lt;/b&gt;215-679-4472  DAVE SMITH,&lt;br/&gt;1101 BLOMMER DRIVE,&lt;br/&gt;EAST GREENVILLE, PA 18041&lt;br/&gt;&lt;b&gt;No of Orders: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;No of Units: &lt;/b&gt;10&lt;br/&gt;&lt;b&gt;Arrival Time: &lt;/b&gt;11/16/2017 6:02:51 AM&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+      <styleUrl>#GreenPoints_2</styleUrl>
+      <Style id="GreenPoints_2">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/GreenMarkers/marker2.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.3153294325,40.1934868097</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ship To: PERFORMANCE FOOD CENTERS</name>
+      <description>&lt;b&gt;Stop: &lt;/b&gt;4&lt;br/&gt;&lt;b&gt;Ship To: &lt;/b&gt;PERFORMANCE FOOD CENTERS&lt;br/&gt;&lt;b&gt;Address: &lt;/b&gt;610-474-0440 PAUL MINFORD,&lt;br/&gt;59 AIRPORT ROAD,&lt;br/&gt;POTTSTOWN, PA 19464&lt;br/&gt;&lt;b&gt;No of Orders: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;No of Units: &lt;/b&gt;5&lt;br/&gt;&lt;b&gt;Est Arrival Time: &lt;/b&gt;11/16/2017 6:02:51 AM&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+      <styleUrl>#RedPoints_4</styleUrl>
+      <Style id="RedPoints_4">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/RedMarkers/marker4.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.55171329,40.23871075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ship To: QPSI</name>
+      <description>&lt;b&gt;Stop: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Ship To: &lt;/b&gt;QPSI&lt;br/&gt;&lt;b&gt;Address: &lt;/b&gt;JOHN KOWALENKO 484-714-3207,&lt;br/&gt;7570 INDUSTRIAL PARK WAY,&lt;br/&gt;MACUNGIE, PA 18062&lt;br/&gt;&lt;b&gt;No of Orders: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;No of Units: &lt;/b&gt;3&lt;br/&gt;&lt;b&gt;Arrival Time: &lt;/b&gt;11/16/2017 8:27:40 AM&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+      <styleUrl>#BluePoints_1</styleUrl>
+      <Style id="BluePoints_1">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/BlueMarkers/marker1.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.58984,40.5147</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ship To: SOUTHERN WINE &amp; SPIRITS OF PA</name>
+      <description>&lt;b&gt;Stop: &lt;/b&gt;5&lt;br/&gt;&lt;b&gt;Ship To: &lt;/b&gt;SOUTHERN WINE &amp; SPIRITS OF PA&lt;br/&gt;&lt;b&gt;Address: &lt;/b&gt;610-495-2366  MIKE MURPHY,&lt;br/&gt;536 JONES BLVD,&lt;br/&gt;POTTSTOWN, PA 19468&lt;br/&gt;&lt;b&gt;No of Orders: &lt;/b&gt;2&lt;br/&gt;&lt;b&gt;No of Units: &lt;/b&gt;11&lt;br/&gt;&lt;b&gt;Est Arrival Time: &lt;/b&gt;11/16/2017 6:02:51 AM&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+      <styleUrl>#BluePoints_5</styleUrl>
+      <Style id="BluePoints_5">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/BlueMarkers/marker5.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.55362,40.23539</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

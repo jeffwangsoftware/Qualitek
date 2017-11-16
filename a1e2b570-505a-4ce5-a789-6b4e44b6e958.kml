@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+  <Document>
+    <name>All Truck Stops @ 11/16/2017 11:34:25 AM</name>
+    <Placemark>
+      <name>Plant: Acme Corrugated</name>
+      <description>2700 TURNPIKE DRIVE, HATBORO, PA, 19040</description>
+      <styleUrl>#Plant</styleUrl>
+      <Style id="Plant">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/green_MarkerP.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.0973129272461,40.1618118286133</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trailer: 1390</name>
+      <description>&lt;b&gt;Trailer: &lt;/b&gt;1390&lt;br/&gt;&lt;b&gt;Truck: &lt;/b&gt;T14&lt;br/&gt;&lt;b&gt;Trip #: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Driver: &lt;/b&gt;ROB JACKSON&lt;br/&gt;&lt;b&gt;Mobile No: &lt;/b&gt;&lt;A href='mailto:12154296969@vtext.com'&gt;12154296969&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Last Checked in: &lt;/b&gt;9:20:11 AM&lt;br/&gt;&lt;b&gt;Next Stop: &lt;/b&gt;Return To Yard&lt;br/&gt;&lt;b&gt;Return To Yard Est: &lt;/b&gt;11/16/2017 9:20:10 AM&lt;br/&gt;</description>
+      <styleUrl>#RedTruck</styleUrl>
+      <Style id="RedTruck">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/red_MarkerT.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-76.659874,39.257473</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ship To: ARNOLD PACKAGING</name>
+      <description>&lt;b&gt;Stop: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Ship To: &lt;/b&gt;ARNOLD PACKAGING&lt;br/&gt;&lt;b&gt;Address: &lt;/b&gt;JOHN CALVERT - 410-646-3200,&lt;br/&gt;3101 WASHINGTON BLVD,&lt;br/&gt;BALTIMORE, MD 21230&lt;br/&gt;&lt;b&gt;No of Orders: &lt;/b&gt;2&lt;br/&gt;&lt;b&gt;No of Units: &lt;/b&gt;40&lt;br/&gt;&lt;b&gt;Arrival Time: &lt;/b&gt;11/16/2017 9:20:10 AM&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Driver: &lt;/b&gt;ROB JACKSON on truck T14 has arrived at this stop&lt;br/&gt;</description>
+      <styleUrl>#BluePoints_1</styleUrl>
+      <Style id="BluePoints_1">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/BlueMarkers/marker1.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-76.66097647,39.25832468</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

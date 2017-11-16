@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+  <Document>
+    <name>All Truck Stops @ 11/16/2017 11:37:20 AM</name>
+    <Placemark>
+      <name>Plant: Acme Corrugated</name>
+      <description>2700 TURNPIKE DRIVE, HATBORO, PA, 19040</description>
+      <styleUrl>#Plant</styleUrl>
+      <Style id="Plant">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/green_MarkerP.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.0973129272461,40.1618118286133</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trailer: 3209</name>
+      <description>&lt;b&gt;Trailer: &lt;/b&gt;3209&lt;br/&gt;&lt;b&gt;Truck: &lt;/b&gt;t2&lt;br/&gt;&lt;b&gt;Trip #: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Driver: &lt;/b&gt;ALVERT BETHEA&lt;br/&gt;&lt;b&gt;Mobile No: &lt;/b&gt;&lt;A href='mailto:12152855339@vtext.com'&gt;12152855339&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Last Checked in: &lt;/b&gt;11:35:34 AM&lt;br/&gt;&lt;b&gt;Next Stop: &lt;/b&gt;Return To Yard&lt;br/&gt;&lt;b&gt;Return To Yard Est: &lt;/b&gt;11/16/2017 9:17:20 AM&lt;br/&gt;</description>
+      <styleUrl>#RedTruck</styleUrl>
+      <Style id="RedTruck">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/red_MarkerT.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.105667,40.156178</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ship To: MOBERN LIGHTING</name>
+      <description>&lt;b&gt;Stop: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Ship To: &lt;/b&gt;MOBERN LIGHTING&lt;br/&gt;&lt;b&gt;Address: &lt;/b&gt;DONNA BARNES,&lt;br/&gt;8200 STAYTON DRIVE, SUITE 500,&lt;br/&gt;JESSUP, MD 20794&lt;br/&gt;&lt;b&gt;No of Orders: &lt;/b&gt;2&lt;br/&gt;&lt;b&gt;No of Units: &lt;/b&gt;9&lt;br/&gt;&lt;b&gt;Arrival Time: &lt;/b&gt;11/16/2017 7:23:49 AM&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+      <styleUrl>#BluePoints_1</styleUrl>
+      <Style id="BluePoints_1">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/BlueMarkers/marker1.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-76.80308075,39.14495398</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ship To: DISTRICT PHOTO, INC</name>
+      <description>&lt;b&gt;Stop: &lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Ship To: &lt;/b&gt;DISTRICT PHOTO, INC&lt;br/&gt;&lt;b&gt;Address: &lt;/b&gt;301-937-5300,&lt;br/&gt;10550 EWING ROAD  ,&lt;br/&gt;BELTSVILLE, MD 20705&lt;br/&gt;&lt;b&gt;No of Orders: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;No of Units: &lt;/b&gt;3&lt;br/&gt;&lt;b&gt;Arrival Time: &lt;/b&gt;11/16/2017 7:57:07 AM&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+      <styleUrl>#GreenPoints_2</styleUrl>
+      <Style id="GreenPoints_2">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/GreenMarkers/marker2.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-76.91760706,39.02775256</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ship To: SOUTHERN WINE AND SPIRITS OF MD</name>
+      <description>&lt;b&gt;Stop: &lt;/b&gt;3&lt;br/&gt;&lt;b&gt;Ship To: &lt;/b&gt;SOUTHERN WINE AND SPIRITS OF MD&lt;br/&gt;&lt;b&gt;Address: &lt;/b&gt;954-602-2553 HAROL BABOZA,&lt;br/&gt;7001 QUAD AVENUE SUITE C,&lt;br/&gt;ROSEDALE, MD 21237&lt;br/&gt;&lt;b&gt;No of Orders: &lt;/b&gt;2&lt;br/&gt;&lt;b&gt;No of Units: &lt;/b&gt;13&lt;br/&gt;&lt;b&gt;Arrival Time: &lt;/b&gt;11/16/2017 9:17:20 AM&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+      <styleUrl>#YellowPoints_3</styleUrl>
+      <Style id="YellowPoints_3">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/YellowMarkers/marker3.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-76.52125379,39.30380514</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

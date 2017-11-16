@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+  <Document>
+    <name>All Truck Stops @ 11/16/2017 11:33:48 AM</name>
+    <Placemark>
+      <name>Plant: Acme Corrugated</name>
+      <description>2700 TURNPIKE DRIVE, HATBORO, PA, 19040</description>
+      <styleUrl>#Plant</styleUrl>
+      <Style id="Plant">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/green_MarkerP.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.0973129272461,40.1618118286133</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trailer: 3036</name>
+      <description>&lt;b&gt;Trailer: &lt;/b&gt;3036&lt;br/&gt;&lt;b&gt;Truck: &lt;/b&gt;T12&lt;br/&gt;&lt;b&gt;Trip #: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Driver: &lt;/b&gt;ZCOREY MUNDY&lt;br/&gt;&lt;b&gt;Mobile No: &lt;/b&gt;&lt;A href='mailto:@vtext.com'&gt;&lt;/a&gt;&lt;br/&gt;&lt;b&gt;Last Checked in: &lt;/b&gt;8:09:53 AM&lt;br/&gt;&lt;b&gt;Next Stop: &lt;/b&gt;Return To Yard&lt;br/&gt;&lt;b&gt;Return To Yard Est: &lt;/b&gt;11/16/2017 7:44:39 AM&lt;br/&gt;</description>
+      <styleUrl>#RedTruck</styleUrl>
+      <Style id="RedTruck">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/red_MarkerT.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.364105,39.78376</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ship To: LANDSBERG PHILADELPHIA</name>
+      <description>&lt;b&gt;Stop: &lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Ship To: &lt;/b&gt;LANDSBERG PHILADELPHIA&lt;br/&gt;&lt;b&gt;Address: &lt;/b&gt;1-856-832-3600 RAPHY BAQUE,&lt;br/&gt;300 EAGLE COURT,&lt;br/&gt;SWEDESBORO, NJ 08085&lt;br/&gt;&lt;b&gt;No of Orders: &lt;/b&gt;2&lt;br/&gt;&lt;b&gt;No of Units: &lt;/b&gt;56&lt;br/&gt;&lt;b&gt;Arrival Time: &lt;/b&gt;11/16/2017 7:44:39 AM&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Driver: &lt;/b&gt;ZCOREY MUNDY on truck T12 has arrived at this stop&lt;br/&gt;</description>
+      <styleUrl>#BluePoints_1</styleUrl>
+      <Style id="BluePoints_1">
+        <IconStyle id="">
+          <scale>1</scale>
+          <Icon>
+            <href>http://mobileforce.acmebox.com/MobileForceConsole/mapicons/BlueMarkers/marker1.png</href>
+          </Icon>
+          <HotSpot x="0" y="0" xunits="pixels" yunits="pixels" />
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-75.36670718,39.78443099</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
